@@ -1,3 +1,8 @@
+#Deven Bernard - 10099810
+#Marissa Huang - 10179169
+#Kevin Zuern - 10134425
+#Quentin Petraroia - 10145835
+
 #Rule 1
 mystring.o: mystring.c mystring.h
 	gcc -Wall -c mystring.c

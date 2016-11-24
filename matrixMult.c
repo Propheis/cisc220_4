@@ -4,6 +4,11 @@
 
 #define MAX_INPUT_LENGTH 1000
 
+//Deven Bernard - 10099810
+//Marissa Huang - 10179169
+//Kevin Zuern - 10134425
+//Quentin Petraroia - 10145835
+
 char isInteger(const char *str) {
   char *endptr;
   strtol(str, &endptr, 10);
