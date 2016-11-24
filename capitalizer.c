@@ -60,9 +60,3 @@ int main(int argc, char const *argv[]) {
 
 
 
-/*
-int letter;
-while ((letter = fgetc(fp)) != EOF)
-    putchar(letter);
-fclose(fp);
-*/
